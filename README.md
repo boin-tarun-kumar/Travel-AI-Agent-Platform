@@ -1,6 +1,6 @@
 # AI Agents using Spring AI & Thymeleaf
 
-A fully functional, interactive AI Agent system built using **Spring Boot 3.4+ / 4.0**, **Spring AI (version 2.0.0)**, and **Thymeleaf**. 
+A fully functional, interactive AI Agent system built using **Spring Boot 4.0**, **Spring AI (version 2.0.0)**, and **Thymeleaf**. 
 This project showcases how to build AI Agents capable of dynamic function calling (tool execution) to resolve user travel queries (flights, hotels, weather) and e-commerce customer support tasks (order status, canceling orders, inventory checks).
 
 ---
